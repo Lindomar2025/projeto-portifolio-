@@ -7,3 +7,9 @@
   --destaque-inverso
   --fundo-card
 */
+
+body {
+
+  background-color: rgb(216, 248, 238);
+  color: blue;
+}
